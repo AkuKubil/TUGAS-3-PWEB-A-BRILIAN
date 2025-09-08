@@ -14,7 +14,7 @@ Tugas ini bertujuan untuk membuat table, form, dan frames dengan menggunakan HTM
 ## Hasil Implementasi
 1.**Tabel**
  - Menampilkan Tabel Daftar Nilai Mahasiswa yang berisi Nomor, NPM, Nama, serta Nilai UTS & UAS.
-  ![Tampilan Tabel](Identitas.png)
+  ![Tampilan Tabel](Table.png)
 
   Kode : 
   ```html
@@ -41,7 +41,7 @@ Tugas ini bertujuan untuk membuat table, form, dan frames dengan menggunakan HTM
 
 2.**Form**
  - Menampilkan Form yang berisi First Name, Last Name, Email, Password, Re-Type Password, Contact, dan juga Gender. Selain itu, juga tertera tombol input type berupa "Submit".
-  ![Tampilan Tabel](Identitas.png)
+  ![Tampilan Tabel](Form.png)
 
   Kode :
   ```html
@@ -86,7 +86,7 @@ Tugas ini bertujuan untuk membuat table, form, dan frames dengan menggunakan HTM
 
 3. **Frames**
  - Menampilkan Frames yang menggabungkan antara HTML dan CSS.
-  ![Tampilan Tabel](Identitas.png)
+  ![Tampilan Tabel](Frames.png)
 
   Kode : 
   ```html
